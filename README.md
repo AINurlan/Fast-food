@@ -1,2 +1,2 @@
 # Fast-food
-Fast food image recognizing application
+Fast food image recognizing application.
